@@ -1,8 +1,14 @@
 # BITOGINS_HTTPCHECKER BETA v0.5
 
-<p> ✅ Simple connection status checker. </p>
-<p> ✅ Established (200) </p>
-<p> ❌ Error (400) </p>
+> <b>
+<p align="center">
+    FIRST PYTHON PROJECT
+</p>
+</b>
+
+> <p> ✅ Simple connection status checker. </p>
+> <p> ✅ Established (200) </p>
+> <p> ❌ Error (400) </p>
 
 #### Termux
 
