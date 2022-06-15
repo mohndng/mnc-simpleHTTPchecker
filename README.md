@@ -2,7 +2,7 @@
 
 > <b>
 <p align="center">
-    FIRST PYTHON PROJECT
+    FIRST PYTHON OUTPUT
 </p>
 </b>
 
@@ -38,3 +38,7 @@
     EXPERIMENT TIME NA!!
 </p>
 </b>
+
+`@PHCutipie`
+`@Liroy99`
+`@Vin00`
