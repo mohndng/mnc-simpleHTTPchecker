@@ -6,7 +6,7 @@
 
 #### Termux
 
-> git clone https://github.com/mohndng/mnc/blob/main/mnchttpchecker.py
+> git clone https://github.com/mohndng/mnc
 
 > cd mnc
 
