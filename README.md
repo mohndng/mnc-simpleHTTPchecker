@@ -27,8 +27,7 @@
  <img alt="mnc_screenshot" src="https://github.com/mohndng/mnc/blob/ad0122fd554ef9fbd8e44e653cb868d21ea1c8fe/Screenshot_20220615-224505_Termux.png">
 </picture>
 
-
-<b>
+> <b>
 <p align="center">
     EXPERIMENT TIME NA!!
 </p>
