@@ -6,7 +6,7 @@ from colorama import Fore, Style
 m = 'MnCHTTPCHECKER v0.5'
 n = 'Please wait for a while..'
 c = 'Success!'
-mon = requests.get('http://mncreation.cf',allow_redirects=False)
+mon = requests.get('http://0.discoverapp.com',allow_redirects=False)
 
 time.sleep(0.5)
 print(Fore.RED, m); time.sleep(1)
