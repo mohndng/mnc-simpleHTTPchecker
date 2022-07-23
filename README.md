@@ -1,4 +1,4 @@
-# BITOGINS_HTTPCHECKER BETA v0.5
+# MNC_HTTPCHECKER BETA v0.5
 
 > <b>
 <p align="center">
